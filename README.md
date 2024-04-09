@@ -16,7 +16,7 @@
 <p>Projeto desenvolvido para matéria de Introdução WEB. </p>
 <p>A ideia principal do site é criar uma comunidade, no qual as pessoas possam interagir sobre locais que visitaram e consultar outras avaliações.</p>
 
-https://arthurbazzz.github.io/projetofinal.github.io/
+<a href="https://arthurbazzz.github.io/projeto-final/" target="_blank">Link do site</a>
 
 <!-- Informações sobre as atualizações do projeto-->
 ## Snapshots
