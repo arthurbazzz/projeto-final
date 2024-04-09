@@ -24,10 +24,10 @@
 <h2>Adicionado na página: </h2>
 <ul>1 - Página de usuário (Incompleta);</ul>
 <ul>2 - Página de erro (Projetos que estão ainda em desenvolvimento);</ul>
-
+<ul>3 - Foram realizadas mudanças sutis nos estilos das páginas</ul>
 <h2>Proximas atualizações:</h2>
 <ul>1 - Páginas de avaliações;</ul>
 <ul>2 - Cadastro / Login;</ul>
 <ul>3 - Notificações e Pesquisar;</ul>
-<p>Foram realizadas mudanças sutis nos estilos das páginas</p>
-<p>Mudanças no planejamento podem ocorrer para melhora no desenvolvimento</p>
+
+<p>Mudanças no planejamento podem ocorrer para facilidade no desenvolvimento do projeto.</p>
